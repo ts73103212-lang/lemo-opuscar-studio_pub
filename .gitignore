@@ -1,0 +1,9 @@
+# 完成動画・中間レンダリングは大きいのでコミットしない(必要なら Releases や Drive へ)
+*.mp4
+*.mov
+*.webm
+*.wav
+films/*/frames/
+films/*/out/
+node_modules/
+.venv/
