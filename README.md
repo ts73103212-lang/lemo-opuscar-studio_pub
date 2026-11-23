@@ -1,4 +1,4 @@
-# lemo-opuscar-studio
+# lemo-opuscar-studio_pub
 
 [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar)(99種のコード生成映像スタイル)を使うための専用リポジトリ。
 
